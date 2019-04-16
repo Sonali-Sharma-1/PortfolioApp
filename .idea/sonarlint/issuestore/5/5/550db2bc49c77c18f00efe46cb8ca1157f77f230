@@ -1,0 +1,7 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8İ¼š”¢-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô‘ÿh8ôÚ›”¢-
+dsquid:UselessImportCheck
+"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8ŞË•¢-
+squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "aboutView".(ÏÜš8ŞË•¢-
+\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8İ¼š”¢-

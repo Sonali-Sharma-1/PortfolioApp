@@ -1,0 +1,5 @@
+
+{squid:S1450"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(åÙ¬Ïûÿÿÿÿ8¡äÅ”¢-
+lsquid:UselessImportCheck"ARemove this unused import 'android.support.v4.view.PagerAdapter'.(–ø¦Ö8•÷Í”¢-
+dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8©Ğ¹•¢-
+squid:S1450"cRemove the "getInTouchViewLayout" field and declare it as a local variable in the relevant methods.(¶ôö½8ŠÅÀ•¢-

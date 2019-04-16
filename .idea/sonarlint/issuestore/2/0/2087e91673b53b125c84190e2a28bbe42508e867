@@ -1,0 +1,6 @@
+
+\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ýÿÿÿÿ8ž“³”¢-
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8ž“³”¢-
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™¡’¥þÿÿÿÿ8ƒ¦³”¢-
+~squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "workView".(äÒ¢“8„®´”¢-

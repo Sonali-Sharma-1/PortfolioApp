@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PortfolioApp</string>
+    
+    <string name="about_sonali">"Hi, my name is Sonali Sharma.
+        I have 2 yrs experience in Android development, I love to explore new technologies and my goal is to teach students to program and build apps.I would want to contribute to open-source community in coming years and also to pave the way for other people to teach them how to do it."</string>
+
+    <string name="skills">* Java "\n" * Android "\n" * Kotlin "\n" * Teaching</string>
+
+    <string name="work">* Chat app "\n" * Calories App "\n" * Diary App "\n" *Bio App</string>
+
+    <string name="contact"></string>
+    
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
